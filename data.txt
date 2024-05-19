@@ -1,0 +1,5 @@
+prject experience 
+* build backend API server with Spring framework and spring boot.
+* deploy the application with AWS EC2
+* connect MySQL databse with AWS RDS
+* use JPA ORM retreiving data 
